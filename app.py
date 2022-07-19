@@ -2,8 +2,11 @@ import streamlit as st
 
 #Heading
 
-st.write("""# Multiplication of two numbers
-This app calculates the product of 2 given numbers""")
+st.write("""
+# Multiplication of two numbers
+
+This app calculates the product of 2 given numbers
+""")
 
 #Get Input
 

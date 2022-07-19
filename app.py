@@ -20,4 +20,4 @@ product = number_1 * number_2
 
 st.header('Output')
 
-st.write('The product of ',number_1,' and ',number_2,' is ',product")
+st.write('The product of ',number_1,' and ',number_2,' is ',product)
